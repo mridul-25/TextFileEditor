@@ -1,7 +1,4 @@
-################################################################
-ReadMe for assignment submitted by 2019B3PS0410P and 2019B5PS0781P
-Practical section number: P8
-Assignment question attempted: 4
+TEXT FILE EDITOR
 ################################################################
 Team:
 1. 2019B3PS0410P   Mridul Bhatia
@@ -79,6 +76,5 @@ Description of how to run the code and observe the output:
 Contributions of the team members:
 Mridul Bhatia did modules 3,4,5 and 6 and also helped in module 1. Also contributed in Readme
 Maunil Chopra did modules 1 and 2.[and thus made-- cfileexists.h ,checkExtension.h ,print_file.h ,edit.h,scanString.h] Also contributed to make the help menu, and made layout of main() to compile all the modules and have an user friendly interface . Also contributed in Readme
-Rahul Moondra did not had his PC and in these difficult circumstances he had to go to 
-cyber cafe in order to code. He helped in modules 3 and 4 in his own ways under the restraints.
+Rahul Moondra contributed satisfactorily as the group working demanded.
 
